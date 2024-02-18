@@ -14,4 +14,4 @@ A comprehensive repository dedicated to  ReactJS thorough learning .
 
 
 ---
-**_ Happy Learning !_**
+_ Happy Learning ! ✨_
